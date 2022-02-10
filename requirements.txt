@@ -13,6 +13,7 @@ importlib-metadata==4.10.1
 Markdown==3.3.6
 promise==2.3
 pycodestyle==2.8.0
+python-dotenv==0.19.2
 pytz==2021.3
 Rx==1.6.1
 singledispatch==3.7.0
